@@ -1,0 +1,33 @@
+{
+  "input_file": "products.csv",
+  "total_rows": 8,
+  "valid_rows": 4,
+  "invalid_rows": 4,
+  "issue_count": 4,
+  "issues": [
+    {
+      "row": 4,
+      "sku": "HD-300",
+      "field": "price",
+      "message": "Price must be a valid non-negative number."
+    },
+    {
+      "row": 5,
+      "sku": "KB-200",
+      "field": "sku",
+      "message": "Duplicate SKU."
+    },
+    {
+      "row": 6,
+      "sku": "MN-400",
+      "field": "stock",
+      "message": "Stock must be a non-negative whole number."
+    },
+    {
+      "row": 7,
+      "sku": "",
+      "field": "sku",
+      "message": "SKU is required."
+    }
+  ]
+}

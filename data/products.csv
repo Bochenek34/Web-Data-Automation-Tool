@@ -1,0 +1,9 @@
+sku,name,price,stock
+ ab-100 ,Wireless Mouse,49.99,25
+KB-200,Mechanical Keyboard,199.00,12
+HD-300,USB-C Hub,invalid,8
+kb-200,Duplicate Keyboard SKU,129.00,5
+MN-400,Monitor Stand,39.99,-2
+,Unnamed SKU Item,12.50,4
+CB-500,  USB-C   Cable  ,9.99,100
+SP-600,Desk Speakers,79.50,0
